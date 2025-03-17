@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Manoj kumar <br> and I'm a Computer Science and engineering Student, from Lendi Vizianagaram</h2>
+# <h2 align="left">Hi 👋!<br> My name is Manoj kumar <br> and I'm a Computer Science and engineering Student,<br> from Lendi Vizianagaram</h2>
 
 ###
 
